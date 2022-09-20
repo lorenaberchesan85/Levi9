@@ -157,7 +157,7 @@ vars.putObject(&quot;jobList&quot;,jobList);</stringProp>
               <stringProp name="XPathExtractor.default"></stringProp>
               <stringProp name="XPathExtractor.refname">title</stringProp>
               <stringProp name="XPathExtractor.matchNumber">-1</stringProp>
-              <stringProp name="XPathExtractor.xpathQuery">//span[@class=&quot;text-block-base-link&quot;]/@title</stringProp>
+              <stringProp name="XPathExtractor.xpathQuery">//span[@class=&quot;text-block-base-link company-link-style&quot;]/@title</stringProp>
               <boolProp name="XPathExtractor.validate">false</boolProp>
               <boolProp name="XPathExtractor.tolerant">true</boolProp>
               <boolProp name="XPathExtractor.namespace">false</boolProp>
